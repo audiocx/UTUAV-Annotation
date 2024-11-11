@@ -15,8 +15,9 @@ What you need:
 
 Guide:
 
-- Clone and enter the official CVAT repository:
+- Clone the official CVAT repository:
   `$ git clone https://github.com/cvat-ai/cvat`
+- Enter the folder:
   `$ cd cvat`
 - Compose the Docker containers:
   `$ sudo docker compose up`
