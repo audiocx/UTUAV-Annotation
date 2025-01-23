@@ -1,4 +1,7 @@
 venv
+format_conversion/pascal_annotations/B_dataset/JPEGImages/*.jpg
 format_conversion/pascal-annotations/B_dataset/Annotations
+format_conversion/pascal-annotations/B_dataset/B_dataset.zip
+format_conversion/pascal-annotations/C_dataset/JPEGImages/*.jpg
 format_conversion/pascal-annotations/C_dataset/Annotations
-./B_snapshot_11-11-24_PascalVOC.zip
+format_conversion/pascal-annotations/C_dataset/C_dataset.zip
